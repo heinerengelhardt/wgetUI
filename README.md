@@ -1,2 +1,2 @@
 # wgetUI
- wgetUI - Windows User Interface for wget binary
+Windows User Interface for wget binary
